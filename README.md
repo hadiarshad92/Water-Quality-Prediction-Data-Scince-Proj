@@ -1,4 +1,4 @@
-# 💧 Water Potability Prediction – Data Science Project
+# 💧 Water Quality Prediction – Data Science Project
 
 This repository contains my **Data Science course project**, where I built and evaluated machine learning models to predict **drinking water potability** based on physicochemical properties of water.
 
@@ -72,3 +72,19 @@ The goal of this project is to predict whether water is **potable (safe to drink
 ---
 
 ## 📁 Repository Structure
+
+├── 21K_3326ProjectDS.ipynb # Jupyter Notebook with full workflow
+├── 21K_3326ProjectDS.pdf # PDF with full workflow
+├── 21K3326.pdf # Project report (Docx)
+├── 21K3326.pdf # Project report (PDF)
+├── README.md # Project documentation
+
+---
+
+## 🚀 How to Run
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/water-potability-prediction.git
+   cd water-potability-prediction
+   ```
